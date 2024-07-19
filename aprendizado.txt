@@ -1,0 +1,41 @@
+== MODULO 1 ===
+- O que é uma classe, sua estrutura, como criar e por que isso é um conceito fundamental na orientação a objetos;
+- O que são atributos: as "características" de um objeto, e a definir e visualizar esses valores;
+- A instanciar objetos;
+- Sobre os métodos (ou comportamentos) de um objeto;
+- A pensar nas entidades do mundo real em forma de objetos, que possuem características (atributos) e comportamentos ou ações (métodos).
+
+
+== MODULO 2 ===
+- Encapsulamento: controlar o acesso aos atributos e métodos de uma classe;
+- O que são os modificadores de acesso public e private;
+- Métodos de leitura dos atributos, que são os métodos getters;
+- Métodos de modificação dos atributos, que são os métodos setters;
+- O uso da palavra chave import, para importar classes de outros pacotes;
+- O uso da palavra chave this;
+- Boas práticas de dividir o código em pacotes, bem como a convenção usada: domínio da empresa ao contrário, onde aqui vamos colocar por exemplo com.caio.screenmatch.
+
+
+== MODULO 3 ====
+- O problema de ter códigos duplicados em várias classes, utilizando a herança como solução;
+- A palavra-chave extends, utilizada para indicar que uma classe herda de outra;
+- Como sobrescrever um método sendo herdado, com o uso opcional da anotação @Override;
+- Como aplicar o conceito de polimorfismo no código, evitando métodos duplicados.
+
+== MODULO 4 ===
+- Que no Java uma classe pode herdar de somente uma única classe;
+- O conceito de interfaces no Java;
+- Que numa interface todos os métodos são públicos, não sendo então necessário utilizar a palavra reservada public na declaração deles;
+- Que também é possível aplicar o polimorfismo com o uso de interfaces, similar ao que foi demonstrado com a utilização da herança em aulas anteriores.
+
+== MODULO 5 ===
+A aplicar seus conhecimentos em uma aplicação de um sistema de músicas, utilizando conceitos de orientação a objetos, encapsulamento, herança e polimorfismo.
+
+
+================== COLECOES DE DADOS =====================
+
+== MODULO 1 ==
+- Como representar listas de objetos no Java, com a utilização da classe ArrayList;
+- A manipular um ArrayList com seus métodos add, size e get;
+- Os diferentes tipos de classes do Java para representar uma lista;
+- Como funciona o método toString(), utilizado para representar um objeto em texto.
